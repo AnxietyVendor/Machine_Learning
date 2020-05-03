@@ -1,7 +1,7 @@
 # RUC_MachineLearning2020
 Machine Learning courses in RUC, School of Statistics
 
-# notes(笔记内容): https://www.jianshu.com/nb/44642000
+notes(笔记内容): https://www.jianshu.com/nb/44642000
 
 ## HW1
 ### 口罩真伪概念学习任务
