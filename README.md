@@ -19,7 +19,7 @@ Machine Learning courses in RUC, School of Statistics
 * 训练样例集$D$：目标函数的正例和反例
 
 求解：
-
+![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
 * $H$中的一假设$h$， 使对于$X$中任意$ x $, $h(x) = c(x) $
 ## HW2
 
