@@ -52,7 +52,20 @@ Machine Learning courses in RUC, School of Statistics
 * 根据Friedman检验判断分类器性能差异是否显著
 
 ## HW4
+### Boston数据集与Credit数据集
+1. 请用Boston数据中的medv对lstat建模，线性模型，二次模型和knn模型，在使用knn回归的时候可以尝试不同的k，比较拟合效果，输出结果，分析结果。
+
+2. 使用Credit数据建立回归,用balance对rating,limit和age建立回归模型：
+
+* 编写程序用least square算法分别计算balance对每个自变量的一元回归系数；
+
+* 用least square计算balance对limit和rating的回归，请比较2和1的回归系数之间的差异；
+
+* 用least square计算balance对age和rating的回归，请比较3和1的回归系数之间的差异；
+
+* 请用正交系数估计算法计算balance对age和rating的回归，请分析1,2,3,4回归系数的不同
 ## HW5
+
 ## HW6
 ## HW7
 ## HW8
