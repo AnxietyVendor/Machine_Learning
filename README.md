@@ -21,7 +21,7 @@ Machine Learning courses in RUC, School of Statistics
 * H中的一假设h， 使对于X中任意x , h(x) = c(x) 
 ## HW2
 ### Auto数据集
-（a）将数据集按照留出法划分为训练集和测试集（比例为80%和20%），对于函数![](http://latex.codecogs.com/gif.latex?\\mpg = 40 - 0.15 * horsepower 编写程序估计平方损失下的泛化误差，自行设定实验次数进行泛化
+(a)将数据集按照留出法划分为训练集和测试集（比例为80%和20%），对于函数![](http://latex.codecogs.com/gif.latex?\\ mpg = 40 - 0.15 * horsepower 编写程序估计平方损失下的泛化误差，自行设定实验次数进行泛化
 
 ## HW3
 ## HW4
