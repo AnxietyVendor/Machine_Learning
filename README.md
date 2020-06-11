@@ -104,4 +104,6 @@ notes(笔记内容): https://www.jianshu.com/nb/44642000
 * 请学习如下程序，并对实验训练数据进行RBF分类，用测试数据定义误差函数，预设学习率，调节权值以及中间层神经元个数M，输出对不同的隐层数和不同的sigma对测试误差的影响，从中能够对M的大小和sigma的大小和对测试误差的影响有怎样的认识？
 参考github：shiliuqiang/RBF_NN_Python
 
+* 学习github项目Solving the Traveling Salesman Problem using Self-Organizing Maps，调整学习率、更新半径以及结点数量，观察结果变化
+
 * 5.8.3选做：Python机器学习P218页，下载MNIST数集，实现一个多层感知机模型，尝试将激活函数更新为RBF，比较Sigmoid激活函数和RBF的效果
