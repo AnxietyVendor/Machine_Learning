@@ -136,3 +136,16 @@ notes(笔记内容): https://www.jianshu.com/nb/44642000
 * 学习github项目Solving the Traveling Salesman Problem using Self-Organizing Maps，调整学习率、更新半径以及结点数量，观察结果变化
 
 * 5.8.3选做：Python机器学习P218页，下载MNIST数集，实现一个多层感知机模型，尝试将激活函数更新为RBF，比较Sigmoid激活函数和RBF的效果
+
+
+
+## EXP 12
+
+### Auto 数据集
+* 创建二分类变量，把每加仑油耗行驶距离大于中位数的车记为1，低于中位数的记为0
+
+* 使用sklearn中的sklearn.svm.SVC()函数(范例可参考https://blog.csdn.net/TeFuirnever/article/details/99646257?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.nonecase)，采用不同的C值，给出不同去之下的交叉验证结果
+
+* 变换不同的径向基函数（linear’：线性核函数，‘poly’：多项式核函数，‘rbf’：径像核函数/高斯核，‘sigmod’：sigmod核函数）和gamma函数，调整不同的C值，评价结果。
+
+* 作图说明结果，特别是将支持向量机也一同标记在图上（可参见程序https://blog.csdn.net/robin_Xu_shuai/article/details/78705922?utm_source=blogxgwz3?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-2）
